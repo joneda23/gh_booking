@@ -19,3 +19,8 @@ default root and empty password, so, if you run this script under other username
 you must change the credentials on application/config/database.php and the hostname as well.
 
 The header uses a CND url for bootstrap and jquery so, internet connection is required
+
+************
+Issues
+************
+There could be more validations in the front end
