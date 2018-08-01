@@ -18,10 +18,4 @@ Just run the mysql script located in mysql_database folder, the user/password us
 default root and empty password, so, if you run this script under other username/password
 you must change the credentials on application/config/database.php and the hostname as well.
 
-The header uses a CND url for bootstrap and jquery so, internet connection is required.
-
-***************
-Acknowledgement
-***************
-
-
+The header uses a CND url for bootstrap and jquery so, internet connection is required

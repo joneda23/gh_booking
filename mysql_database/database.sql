@@ -1,3 +1,5 @@
+CREATE DATABASE  IF NOT EXISTS `booking_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `booking_db`;
 -- MySQL dump 10.13  Distrib 5.7.18, for Win64 (x86_64)
 --
 -- Host: 127.0.0.1    Database: booking_db
